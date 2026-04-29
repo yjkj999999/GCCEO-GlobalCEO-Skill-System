@@ -18,9 +18,9 @@ license: MIT
 language: zh-CN | en-US
 skills_count: 96
 tags: [ceo, leadership, strategy, investment, global-business, ai, private-equity, mba, executive]
-repository: https://github.com/GCCEO
-clawhub: https://clawhub.ai/GCCEO
-skillhub: https://skillhub.ai/GCCEO
+repository: https://github.com/yjkj999999/GCCEO-GlobalCEO-Skill-System
+clawhub: https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system
+skillhub: https://skillhub.ai
 ---
 
 # GCCEO — Global CEO Mastery System

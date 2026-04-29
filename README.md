@@ -11,8 +11,8 @@
 [![Version](https://img.shields.io/badge/version-4.0.0-blue.svg)](https://github.com/GCCEO/GCCEO-GlobalCEO-Skill-System)
 [![Skills](https://img.shields.io/badge/skills-91+-green.svg)](https://github.com/GCCEO/GCCEO-GlobalCEO-Skill-System)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
-[![ClawHub](https://img.shields.io/badge/ClawHub-Published-purple.svg)](https://clawhub.ai/GCCEO)
-[![SkillHub](https://img.shields.io/badge/SkillHub-Published-red.svg)](https://skillhub.ai/GCCEO)
+[![ClawHub](https://img.shields.io/badge/ClawHub-Publish-purple.svg)](https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system)
+[![SkillHub](https://img.shields.io/badge/SkillHub-Publish-red.svg)](https://skillhub.ai)
 
 </div>
 
@@ -66,13 +66,13 @@ GCCEO是为中国企业家量身打造的全方位多层次深度能力系统，
 ## 🚀 Quick Start
 
 ```bash
-# Install from ClawHub
-claw install gceo
+# Install from ClawHub (after publish)
+openclaw skills install gceo-global-ceo-skill-system
 
 # Install from GitHub
-git clone https://github.com/GCCEO/GCCEO-GlobalCEO-Skill-System.git
+git clone https://github.com/yjkj999999/GCCEO-GlobalCEO-Skill-System.git
 
-# Install from SkillHub
+# Install from SkillHub (after publish)
 skill install gceo
 ```
 

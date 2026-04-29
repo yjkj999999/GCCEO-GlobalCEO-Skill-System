@@ -5,8 +5,15 @@
 | 平台 | 状态 | 说明 |
 |------|------|------|
 | **GitHub** | ✅ 已发布 | https://github.com/yjkj999999/GCCEO-GlobalCEO-Skill-System |
-| **ClawHub** | ⏳ 需手动 | 无自动发布API，需网页端提交 |
-| **SkillHub** | ⏳ 需手动 | 无自动发布API，需网页端提交 |
+| **ClawHub** | ⏳ 需手动发布 | 用户 yjkj999999 已有发布记录（CGMA），需网页端提交 |
+| **SkillHub** | ⏳ 需确认 | 需检查平台可用性 |
+
+## ClawHub 用户信息
+
+- **用户名**: yjkj999999
+- **已发布 Skill**: [cgma-global-management-accountant](https://clawhub.ai/yjkj999999/cgma-global-management-accountant)
+- **GCCEO 预期地址**: https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system
+- **预期安装命令**: `openclaw skills install gceo-global-ceo-skill-system`
 
 ---
 
