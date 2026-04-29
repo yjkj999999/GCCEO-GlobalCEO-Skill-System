@@ -5,8 +5,8 @@
 | 平台 | 状态 | 说明 |
 |------|------|------|
 | **GitHub** | ✅ 已发布 | https://github.com/yjkj999999/GCCEO-GlobalCEO-Skill-System |
-| **ClawHub** | ⏳ 需手动发布 | 用户 yjkj999999 已有发布记录（CGMA），需网页端提交 |
-| **SkillHub** | ⏳ 需确认 | 需检查平台可用性 |
+| **ClawHub** | ⏳ 需手动发布 | 无开放 API，需网页端提交（参考下方步骤）|
+| **SkillHub** | ❌ 平台不可用 | 发布页面 404，平台可能已下线 |
 
 ## ClawHub 用户信息
 
@@ -14,6 +14,17 @@
 - **已发布 Skill**: [cgma-global-management-accountant](https://clawhub.ai/yjkj999999/cgma-global-management-accountant)
 - **GCCEO 预期地址**: https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system
 - **预期安装命令**: `openclaw skills install gceo-global-ceo-skill-system`
+
+## 自动发布尝试记录
+
+已尝试以下方式自动发布，均失败：
+- ❌ ClawHub API (`/api/skills`, `/api/v1/skills`) — 返回 Unauthorized/No matching routes
+- ❌ OpenClaw CLI (`openclaw skill publish`) — 插件被禁用且依赖缺失
+- ❌ OpenClaw CLI (`openclaw skills publish`) — 命令不存在
+- ❌ Browser 自动化 — browser-use CLI 未安装
+- ❌ SkillHub (`skillhub.ai/publish`) — 404 Not Found
+
+**结论**: ClawHub 目前仅支持网页端手动发布。
 
 ---
 
