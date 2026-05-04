@@ -5,7 +5,8 @@
 | 平台 | 状态 | 说明 |
 |------|------|------|
 | **GitHub** | ✅ 已发布 | https://github.com/yjkj999999/GCCEO-GlobalCEO-Skill-System |
-| **ClawHub** | ⏳ 需手动发布 | 无开放 API，需网页端提交（参考下方步骤）|
+| **ClawHub** | ✅ 已发布 (2026-04-30) | https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system |
+| **ClawHub DBS** | 🔄 待发布 | https://clawhub.ai/yjkj999999/dbs-danaher-business-system |
 | **SkillHub** | ❌ 平台不可用 | 发布页面 404，平台可能已下线 |
 
 ## ClawHub 用户信息
@@ -14,6 +15,15 @@
 - **已发布 Skill**: [cgma-global-management-accountant](https://clawhub.ai/yjkj999999/cgma-global-management-accountant)
 - **GCCEO 预期地址**: https://clawhub.ai/yjkj999999/gceo-global-ceo-skill-system
 - **预期安装命令**: `openclaw skills install gceo-global-ceo-skill-system`
+
+### DBS 丹纳赫业务系统 Skill
+
+- **Skill Name**: `DBS 丹纳赫业务系统`
+- **Slug**: `dbs-danaher-business-system`
+- **版本**: 3.0（并购整合增强版）
+- **预期地址**: https://clawhub.ai/yjkj999999/dbs-danaher-business-system
+- **预期安装命令**: `openclaw skills install dbs-danaher-business-system`
+- **仓库路径**: `skills/dbs-danaher-business-system/SKILL.md`
 
 ## 自动发布尝试记录
 
@@ -31,7 +41,11 @@
 ## ClawHub 发布步骤
 
 ### 1. 访问发布页面
-打开：https://clawhub.ai/publish
+打开：https://clawhub.ai/publish-skill
+
+> 注意：ClawHub 有两个发布入口：
+> - `/publish-skill` — 发布 Skill
+> - `/publish-plugin` — 发布 Plugin
 
 ### 2. 填写 Skill 信息
 

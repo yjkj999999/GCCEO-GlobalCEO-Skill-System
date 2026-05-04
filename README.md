@@ -59,9 +59,17 @@ GCCEO是为中国企业家量身打造的全方位多层次深度能力系统，
 
 **+ 10 企业出海战略专项技能**: 全球市场锚定、跨境合规、财税链路优化、本地化运营、香港超级联系人等
 
+**+ 🔥 [DBS丹纳赫业务系统 v3.0](skills/dbs-danaher-business-system/SKILL.md)**: 400+战略并购与DBS结合方法论、投后整合、分拆剥离、戴维斯双击、XBS五步建设法
+
 **香港"硬核三支柱"出海跳板**: 资本引擎(国际金融中心+自由港) + 制度护盾(普通法+一国两制) + 超级枢纽(背靠内地+联通全球)
 
 **明德出海四阶段旅程**: 战略锚点(香港)→增长引擎(东盟)→创新高地(美国)→归航与升维(香港)
+
+## 📦 Included Skills
+
+| Skill | Version | Description |
+|-------|---------|-------------|
+| [DBS 丹纳赫业务系统](skills/dbs-danaher-business-system/SKILL.md) | 3.0 | 400+战略并购与DBS结合方法论、投后整合、分拆剥离、戴维斯双击、XBS建设法 |
 
 ## 🚀 Quick Start
 
@@ -126,6 +134,6 @@ MIT License — Free to use, modify, and distribute.
 
 **GCCEO — Beyond Excellence, Achieving Greatness**
 
-*Version 4.0.0 | April 30, 2026*
+*Version 4.0.0 | May 4, 2026*
 
 </div>
